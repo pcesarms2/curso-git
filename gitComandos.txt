@@ -3,3 +3,7 @@
 		git log --oneline "mostra log de commits por linha"
 		git log -p "mostra as alterações nos arquivos"
 		git clone "endereço da pasta que vai ser clonada" + nome da pasta que eu quero
+		git remote add + caminho do repositorio "adiciona um repositorio dos arquivos da pasta"
+		git branch "mostra as branchs"
+		git checkout + nome da branch "Entra na branch selecionada"
+		git merge + nome da branch que sera mergeada
